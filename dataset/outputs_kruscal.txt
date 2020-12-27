@@ -1,0 +1,22 @@
+For the  critical chi-square value:
+Degrees of freedom = c-1, alpha = 0.05
+
+If the critical chi-square value is less than the H statistic, reject the null hypothesis that the medians are equal.
+
+If the chi-square value is not less than the H statistic, there is not enough evidence to suggest that the medians are unequal.
+
+SUS UTA 9, c = 10, chi-square = 16.918977604620448
+
+KruskalResult(statistic=1.4074074074074083, pvalue=0.4947495006964532)
+
+SUS UTA 4, c = 10, chi-square = 16.918977604620448
+
+KruskalResult(statistic=3.2129629629629646, pvalue=0.20059216110091296)
+
+NASA UTA 9, c = 10, chi-square = 16.918977604620448
+
+KruskalResult(statistic=3.652173913043477, pvalue=0.16104250276283982)
+
+NASA UTA 4, c = 10, chi-square = 16.918977604620448
+
+KruskalResult(statistic=0.6585365853658552, pvalue=0.7194499676893449)
